@@ -39,3 +39,40 @@
 ![PPPPP](lab9_git/screenshots/PPP.png)
 ### улетел на гитхаб!!!
 ![ЮХУУУУУУУУУ](lab9_git/screenshots/link.png)
+
+
+### ЧАААААСТЬ 2!!!!!
+
+
+### создаем новую ветку!
+![вот она!!!](lab9_git/screenshots/branch.png)
+
+### посмотрим какая у нас ветка
+![про](lab9_git/screenshots/view.png)
+
+### что меняется?
+доп ветка:
+![доп ветка](lab9_git/screenshots/mbr.png)
+основная ветка:
+![осн ветка](lab9_git/screenshots/mnbr.png)
+
+### сделал файлик :D
+![файл](lab9_git/screenshots/image.png)
+### ADD XD
+![add](lab9_git/screenshots/addxd.png)
+### коммит!!!
+![коммит](lab9_git/screenshots/c3.png)
+### еще один лог!!!
+![лог](lab9_git/screenshots/lognbr.png)
+### вернулись в main
+![main](lab9_git/screenshots/gobacktomain.png)
+### тут нет файла!!!
+![alt text](lab9_git/screenshots/image2.png)
+### add и commit!
+![alt text](lab9_git/screenshots/image3.png)
+### вот новый лог!!!
+![alt text](lab9_git/screenshots/image4.png)
+### поменяли ветку-поменялся файл!!!
+![alt text](lab9_git/screenshots/image5.png)
+### различие веток!
+![alt text](lab9_git/screenshots/image6.png)
