@@ -8,3 +8,5 @@ void sort(int arr[], int n) {
                 arr[j+1] = temp;
             }
 }
+// с новым годом!!!!!
+// тяп тяп тяп
